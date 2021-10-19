@@ -1,0 +1,1 @@
+30 6 * * *    /usr/sbin/logrotate -v /etc/logrotate.conf
